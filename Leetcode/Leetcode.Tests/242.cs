@@ -27,5 +27,9 @@ namespace Leetcode.Tests
                 return false;          
             return !c1.Where((t1, i) => t1 != c2[i]).Any();
         }
+
+        public void test123()
+        {
+        }
     }
 }
