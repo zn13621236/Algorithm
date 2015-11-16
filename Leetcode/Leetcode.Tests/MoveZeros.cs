@@ -33,7 +33,7 @@ namespace Leetcode.Tests
         [TestMethod]
         public void TestMethod1()
         {
-        
+
         }
     }
 }

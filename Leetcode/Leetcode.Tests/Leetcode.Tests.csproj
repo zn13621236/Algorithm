@@ -48,9 +48,21 @@
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="232.cs" />
+    <Compile Include="242.cs" />
     <Compile Include="MoveZeros.cs" />
     <Compile Include="BullsAndCows.cs" />
+    <Compile Include="DeleteNodeInALinkedList.cs" />
+    <Compile Include="225.cs" />
+    <Compile Include="RectangleArea.cs" />
+    <Compile Include="NewClass1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LeetCodeDataModel\LeetCodeDataModel.csproj">
+      <Project>{c464df34-cb36-47ca-a67e-e56076f2b341}</Project>
+      <Name>LeetCodeDataModel</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
