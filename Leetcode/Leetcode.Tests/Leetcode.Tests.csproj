@@ -54,6 +54,7 @@
     <Compile Include="209.cs" />
     <Compile Include="232.cs" />
     <Compile Include="242.cs" />
+    <Compile Include="306.cs" />
     <Compile Include="MoveZeros.cs" />
     <Compile Include="BullsAndCows.cs" />
     <Compile Include="DeleteNodeInALinkedList.cs" />
