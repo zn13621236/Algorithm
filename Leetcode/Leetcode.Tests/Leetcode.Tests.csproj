@@ -50,11 +50,15 @@
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="209_Minimum_Size_Subarray_Sum - Copy.cs" />
+    <Compile Include="213_House_Robber_2.cs" />
+    <Compile Include="198_House_Robber.cs" />
+    <Compile Include="220.cs" />
     <Compile Include="229.cs" />
-    <Compile Include="209.cs" />
-    <Compile Include="232.cs" />
-    <Compile Include="242.cs" />
-    <Compile Include="306.cs" />
+    <Compile Include="211_Add_and_Search_Word.cs" />
+    <Compile Include="232_Impletement_Queue_Using_Stack.cs" />
+    <Compile Include="242_Valid_Anagram.cs" />
+    <Compile Include="306_Additive_Number.cs" />
     <Compile Include="MoveZeros.cs" />
     <Compile Include="BullsAndCows.cs" />
     <Compile Include="DeleteNodeInALinkedList.cs" />
