@@ -54,6 +54,7 @@
     <Compile Include="213_House_Robber_2.cs" />
     <Compile Include="198_House_Robber.cs" />
     <Compile Include="220.cs" />
+    <Compile Include="41_First_Missing_Positive.cs" />
     <Compile Include="229.cs" />
     <Compile Include="211_Add_and_Search_Word.cs" />
     <Compile Include="232_Impletement_Queue_Using_Stack.cs" />
